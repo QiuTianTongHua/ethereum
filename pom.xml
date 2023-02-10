@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <org.web3j.verison>4.3.0</org.web3j.verison>
-
     </properties>
 
     <dependencies>
@@ -19,5 +18,4 @@
             <version>${org.web3j.verison}</version>
         </dependency>
     </dependencies>
-
 </project>
